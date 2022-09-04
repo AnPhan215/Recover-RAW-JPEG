@@ -3,7 +3,7 @@
 
 This program can recovers JPEGs from a forensic image
 
-This program is meant for practice in pset4 of @CS50x. One of the course from Harvard University.
+This program is meant for practice in pset4 of CS50x. One of the course from Harvard University.
 
 BACKGROUND:
 
