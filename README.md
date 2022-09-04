@@ -22,7 +22,9 @@ Fortunately, digital cameras tend to store photographs contiguously on memory ca
 IMPLEMENTATION:
 
 Input: ```card.raw```
+
 Execution: ./recover card.raw
+
 Output: 50 images of Harvard University
 
 
